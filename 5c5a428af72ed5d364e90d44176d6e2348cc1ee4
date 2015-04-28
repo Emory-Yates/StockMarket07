@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_429da558",
+        "filename": "Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1004798
+      },
+      "writtenOn": "2015-04-28T23:34:00Z",
+      "side": 1,
+      "message": "variable is not very descriptive, change to mMarket or aMarket or something more meaningful",
+      "range": {
+        "startLine": 6,
+        "startChar": 9,
+        "endLine": 6,
+        "endChar": 10
+      },
+      "revId": "5c5a428af72ed5d364e90d44176d6e2348cc1ee4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_a2a579a3",
+        "filename": "Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1004798
+      },
+      "writtenOn": "2015-04-28T23:34:00Z",
+      "side": 1,
+      "message": "make variable private (doesn\u0027t need to be public)",
+      "range": {
+        "startLine": 6,
+        "startChar": 2,
+        "endLine": 6,
+        "endChar": 10
+      },
+      "revId": "5c5a428af72ed5d364e90d44176d6e2348cc1ee4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_82a2fd96",
+        "filename": "Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1004798
+      },
+      "writtenOn": "2015-04-28T23:34:00Z",
+      "side": 1,
+      "message": "make variable more meaningful/descriptive",
+      "range": {
+        "startLine": 14,
+        "startChar": 9,
+        "endLine": 14,
+        "endChar": 11
+      },
+      "revId": "5c5a428af72ed5d364e90d44176d6e2348cc1ee4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
