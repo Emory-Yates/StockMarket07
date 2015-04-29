@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_c2019507",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1004739
+      },
+      "writtenOn": "2015-04-29T01:28:10Z",
+      "side": 1,
+      "message": "Unnecessary comment, Variable name is clear enough",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 16,
+        "endChar": 31
+      },
+      "revId": "40f9e33bd4d70644c41dee57ab5ca648aee457f9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_fd06f01b",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1004739
+      },
+      "writtenOn": "2015-04-29T01:28:10Z",
+      "side": 1,
+      "message": "don\u0027t need to use super for common superclass",
+      "range": {
+        "startLine": 19,
+        "startChar": 0,
+        "endLine": 19,
+        "endChar": 10
+      },
+      "revId": "40f9e33bd4d70644c41dee57ab5ca648aee457f9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
