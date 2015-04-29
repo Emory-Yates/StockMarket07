@@ -2,6 +2,40 @@
   "comments": [
     {
       "key": {
+        "uuid": "1a106d94_7d6cc035",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1004792
+      },
+      "writtenOn": "2015-04-29T03:50:59Z",
+      "side": 1,
+      "message": "unnecessary blank line of code",
+      "revId": "40f9e33bd4d70644c41dee57ab5ca648aee457f9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_dd75f4fa",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1004792
+      },
+      "writtenOn": "2015-04-29T03:50:59Z",
+      "side": 1,
+      "message": "unnecessary blank line of code",
+      "revId": "40f9e33bd4d70644c41dee57ab5ca648aee457f9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_c2019507",
         "filename": "Trader.java",
         "patchSetId": 1
