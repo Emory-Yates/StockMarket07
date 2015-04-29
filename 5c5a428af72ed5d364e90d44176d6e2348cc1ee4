@@ -71,6 +71,29 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_82531d6a",
+        "filename": "Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1004743
+      },
+      "writtenOn": "2015-04-29T15:36:35Z",
+      "side": 1,
+      "message": "rename variable to Neda to make variables more unique, so you don\u0027t have to look back to know which trader is which.",
+      "range": {
+        "startLine": 21,
+        "startChar": 9,
+        "endLine": 21,
+        "endChar": 16
+      },
+      "revId": "5c5a428af72ed5d364e90d44176d6e2348cc1ee4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_dd3b2fcf",
         "filename": "Client.java",
         "patchSetId": 1
@@ -105,6 +128,29 @@
       "writtenOn": "2015-04-29T14:39:04Z",
       "side": 1,
       "message": "Remove unneeded comment.",
+      "range": {
+        "startLine": 77,
+        "startChar": 3,
+        "endLine": 77,
+        "endChar": 37
+      },
+      "revId": "5c5a428af72ed5d364e90d44176d6e2348cc1ee4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_22ca291b",
+        "filename": "Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 1004743
+      },
+      "writtenOn": "2015-04-29T15:36:35Z",
+      "side": 1,
+      "message": "needs to be removed since catch block has been written.",
       "range": {
         "startLine": 77,
         "startChar": 3,
