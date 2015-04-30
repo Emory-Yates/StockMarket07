@@ -105,6 +105,75 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_8f2def97",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T16:38:58Z",
+      "side": 1,
+      "message": "The functions are complete, you can delete them",
+      "range": {
+        "startLine": 41,
+        "startChar": 2,
+        "endLine": 47,
+        "endChar": 10
+      },
+      "revId": "40f9e33bd4d70644c41dee57ab5ca648aee457f9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_4f465750",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T16:38:58Z",
+      "side": 1,
+      "message": "There is only two options, you can change it to if-else expression",
+      "range": {
+        "startLine": 61,
+        "startChar": 2,
+        "endLine": 85,
+        "endChar": 9
+      },
+      "revId": "40f9e33bd4d70644c41dee57ab5ca648aee457f9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_0f129f56",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T16:38:58Z",
+      "side": 1,
+      "message": "The",
+      "range": {
+        "startLine": 89,
+        "startChar": 2,
+        "endLine": 100,
+        "endChar": 30
+      },
+      "revId": "40f9e33bd4d70644c41dee57ab5ca648aee457f9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_f61a856d",
         "filename": "Trader.java",
         "patchSetId": 1
@@ -122,6 +191,29 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_d9be9aad",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T16:38:58Z",
+      "side": 1,
+      "message": "There is only two options, so you can change it to if-else expression",
+      "range": {
+        "startLine": 119,
+        "startChar": 2,
+        "endLine": 137,
+        "endChar": 3
+      },
+      "revId": "40f9e33bd4d70644c41dee57ab5ca648aee457f9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_e3000904",
         "filename": "Trader.java",
         "patchSetId": 1
@@ -133,6 +225,29 @@
       "writtenOn": "2015-04-30T02:28:49Z",
       "side": 1,
       "message": "change short identifier \"i\" to a more detailed and meaningful variable",
+      "revId": "40f9e33bd4d70644c41dee57ab5ca648aee457f9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_99f702d3",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T16:38:58Z",
+      "side": 1,
+      "message": "There is only two options, so you can change it to if-else expression",
+      "range": {
+        "startLine": 157,
+        "startChar": 3,
+        "endLine": 169,
+        "endChar": 4
+      },
       "revId": "40f9e33bd4d70644c41dee57ab5ca648aee457f9",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
