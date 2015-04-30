@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_4ff77759",
+        "filename": "Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 1004808
+      },
+      "writtenOn": "2015-04-30T18:01:04Z",
+      "side": 1,
+      "message": "Just change the short variable \"m\" here",
+      "revId": "125505f6964bcd3571fed834bf561d610fb6e769",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_efb46383",
+        "filename": "Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 1004808
+      },
+      "writtenOn": "2015-04-30T18:01:04Z",
+      "side": 1,
+      "message": "change the short variable \"i\" here",
+      "revId": "125505f6964bcd3571fed834bf561d610fb6e769",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
