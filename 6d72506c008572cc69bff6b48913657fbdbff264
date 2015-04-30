@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "1a106d94_633ed9db",
+        "filename": "Market.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1004808
+      },
+      "writtenOn": "2015-04-30T02:20:15Z",
+      "side": 1,
+      "message": "For better readability, move the method call back in front of the variable calling it \"variable.method(...)\"",
+      "range": {
+        "startLine": 33,
+        "startChar": 0,
+        "endLine": 34,
+        "endChar": 64
+      },
+      "revId": "6d72506c008572cc69bff6b48913657fbdbff264",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_42164556",
         "filename": "Market.java",
         "patchSetId": 1
