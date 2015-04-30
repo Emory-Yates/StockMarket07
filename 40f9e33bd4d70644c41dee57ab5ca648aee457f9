@@ -102,6 +102,40 @@
       "revId": "40f9e33bd4d70644c41dee57ab5ca648aee457f9",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_f61a856d",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 1004808
+      },
+      "writtenOn": "2015-04-30T02:28:49Z",
+      "side": 1,
+      "message": "change short identifier \"m\" to a more detailed and meaningful variable throughout this entire method",
+      "revId": "40f9e33bd4d70644c41dee57ab5ca648aee457f9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_e3000904",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 1004808
+      },
+      "writtenOn": "2015-04-30T02:28:49Z",
+      "side": 1,
+      "message": "change short identifier \"i\" to a more detailed and meaningful variable",
+      "revId": "40f9e33bd4d70644c41dee57ab5ca648aee457f9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
