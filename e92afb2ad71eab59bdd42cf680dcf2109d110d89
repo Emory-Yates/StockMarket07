@@ -1,0 +1,165 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_72f05891",
+        "filename": "OrderBook.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T19:18:21Z",
+      "side": 1,
+      "message": "there are only two options, so you can change it to a if-else expression",
+      "range": {
+        "startLine": 23,
+        "startChar": 2,
+        "endLine": 40,
+        "endChar": 10
+      },
+      "revId": "e92afb2ad71eab59bdd42cf680dcf2109d110d89",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_b22db000",
+        "filename": "OrderBook.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T19:18:21Z",
+      "side": 1,
+      "message": "these codes can be refactored to a new method",
+      "range": {
+        "startLine": 45,
+        "startChar": 1,
+        "endLine": 84,
+        "endChar": 2
+      },
+      "revId": "e92afb2ad71eab59bdd42cf680dcf2109d110d89",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_721e98bc",
+        "filename": "OrderBook.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T19:18:21Z",
+      "side": 1,
+      "message": "This method is too long, you can change it to several methods",
+      "range": {
+        "startLine": 86,
+        "startChar": 13,
+        "endLine": 86,
+        "endChar": 18
+      },
+      "revId": "e92afb2ad71eab59bdd42cf680dcf2109d110d89",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_7247b8bc",
+        "filename": "OrderBook.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T19:18:21Z",
+      "side": 1,
+      "message": "it can be changed to a more meaningful name",
+      "range": {
+        "startLine": 140,
+        "startChar": 8,
+        "endLine": 140,
+        "endChar": 28
+      },
+      "revId": "e92afb2ad71eab59bdd42cf680dcf2109d110d89",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_7275f8f8",
+        "filename": "OrderBook.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 243,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T19:18:21Z",
+      "side": 1,
+      "message": "this variable can be renamed to a more meaningful name",
+      "range": {
+        "startLine": 243,
+        "startChar": 8,
+        "endLine": 243,
+        "endChar": 21
+      },
+      "revId": "e92afb2ad71eab59bdd42cf680dcf2109d110d89",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_52727c11",
+        "filename": "OrderBook.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 244,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T19:18:21Z",
+      "side": 1,
+      "message": "this variable can be renamed to a more meaningful name",
+      "range": {
+        "startLine": 244,
+        "startChar": 7,
+        "endLine": 244,
+        "endChar": 21
+      },
+      "revId": "e92afb2ad71eab59bdd42cf680dcf2109d110d89",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_3256e05c",
+        "filename": "OrderBook.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 293,
+      "author": {
+        "id": 1004807
+      },
+      "writtenOn": "2015-04-30T19:18:21Z",
+      "side": 1,
+      "message": "The meaning of variable is not clear, you can changed it to a more meaningful name",
+      "range": {
+        "startLine": 293,
+        "startChar": 19,
+        "endLine": 293,
+        "endChar": 21
+      },
+      "revId": "e92afb2ad71eab59bdd42cf680dcf2109d110d89",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
